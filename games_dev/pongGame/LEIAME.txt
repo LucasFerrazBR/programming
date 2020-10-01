@@ -1,0 +1,23 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Projeto: Pong! V1.0
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Como usar (Windows): 
+
+1 - Instale o Java (download em https://www.java.com/pt_BR/download/).
+2 - Adicione o Java à sua váriavel PATH de sistema para obter acesso aos comandos de compilação. (Pesquise no google como fazer para a sua versão do Windows).
+3 - Extraia os arquivos em uma pasta.
+4 - Pressione os botões Windows + r no teclado.
+5 - Digite cmd.
+6 - Digite cd e logo em seguida cole o endereço da pasta em que você extraiu os arquivos. 
+    EXEMPLO: cd C:\Pong
+7 - Agora, para compilar o programa, digite javac Player.java e de enter, logo após, digite javac Ball.java e javac Score.java e de um enter para cada comando também.
+8 - Para abrir o jogo digite java Pong
+9 - Jogue!
+
+Como usar (Linux):
+
+1- Siga os passos anteriores, porém, ignore os passos 4 e 5, no lugar, abra o Terminal Linux para executar os comandos das instruções 6,7 e 8.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+[Pong Corporation® - 2020]
